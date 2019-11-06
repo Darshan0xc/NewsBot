@@ -14,7 +14,7 @@
     "feed-read": "0.0.1",
     "jade": "~1.11.0",
     "mongodb": "^2.2.33",
-    "mongoose": "^4.12.3",
+    "mongoose": "^5.7.8",
     "morgan": "~1.9.0",
     "node-schedule": "^1.2.5",
     "request": "^2.83.0",
